@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-dqj!!bkdkm@0(l25(0j%5#okobcdt)r2(9kxcy#cnna*fhjq@5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://textmate-618z.onrender.com"]
 
 
 # Application definition
