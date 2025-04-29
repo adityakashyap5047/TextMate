@@ -1,4 +1,4 @@
-# 📝 Text Analyzer
+# 📝 TextMate
 
 A Django-based web application that allows you to analyze and clean up your text with ease. This project provides functionalities such as removing punctuations, converting text to uppercase, removing newlines and extra spaces, and counting characters.
 
